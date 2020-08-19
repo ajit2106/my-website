@@ -2,6 +2,4 @@
 
 hello
 
-Now editing on update-readme branch
-
-updated locally
+Update made on master on Github before rebase
